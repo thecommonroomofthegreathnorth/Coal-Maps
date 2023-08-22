@@ -5,8 +5,7 @@
     {
       "name": "CoalMaps",
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_1692653169.json",
-      "attribution": "CoalMaps" © <a href=\"https://thecommonroom.org.uk/collections/"
+      "src": "./data/Peripleo_Data_1692653169.json"
     }
   ],
   "facets": [
