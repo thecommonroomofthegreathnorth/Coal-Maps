@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "CoalMaps",
+      "name": "The Common Room",
       "format": "LINKED_PLACES",
       "src": "./data/Peripleo_Data_1692653169.json"
     }
